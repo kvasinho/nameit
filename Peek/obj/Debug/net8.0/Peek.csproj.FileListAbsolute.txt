@@ -1,0 +1,14 @@
+/Users/michaelkvasin/csharp/Peek/Peek/bin/Debug/net8.0/Peek
+/Users/michaelkvasin/csharp/Peek/Peek/bin/Debug/net8.0/Peek.deps.json
+/Users/michaelkvasin/csharp/Peek/Peek/bin/Debug/net8.0/Peek.runtimeconfig.json
+/Users/michaelkvasin/csharp/Peek/Peek/bin/Debug/net8.0/Peek.dll
+/Users/michaelkvasin/csharp/Peek/Peek/bin/Debug/net8.0/Peek.pdb
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/Peek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/Peek.AssemblyInfoInputs.cache
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/Peek.AssemblyInfo.cs
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/Peek.csproj.CoreCompileInputs.cache
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/Peek.dll
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/refint/Peek.dll
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/Peek.pdb
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/Peek.genruntimeconfig.cache
+/Users/michaelkvasin/csharp/Peek/Peek/obj/Debug/net8.0/ref/Peek.dll

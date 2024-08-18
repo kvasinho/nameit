@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUSjEN9048DLSuIxGrnh+k7aR+t+Uit2+OfSPgcetskPy94F6xP/Z442YUXaMq1miGpcygF1KaNg4lDHU5a27g==",
+  "success": true,
+  "projectFilePath": "/Users/michaelkvasin/csharp/Peek/Peek/Peek.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelkvasin/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/8.0.0/microsoft.netcore.app.runtime.osx-x64.8.0.0.nupkg.sha512",
+    "/Users/michaelkvasin/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/8.0.0/microsoft.aspnetcore.app.runtime.osx-x64.8.0.0.nupkg.sha512",
+    "/Users/michaelkvasin/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.0/microsoft.netcore.app.host.osx-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
